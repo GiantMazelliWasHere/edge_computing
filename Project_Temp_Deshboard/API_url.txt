@@ -1,0 +1,5 @@
+Tokyo = [35.6895, 139.6917]
+
+https://api.openweathermap.org/data/2.5/weather?lat=-23.5475&lon=-46.6361&appid=a669c7581a465a7a7c6ca5cea61e378f&units=metric
+
+São Paulo = [-23.5475, -46.6361]
